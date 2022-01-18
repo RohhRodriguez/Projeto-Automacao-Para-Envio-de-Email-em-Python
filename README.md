@@ -1,1 +1,3 @@
-# Projeto-Automacao-Para-Envio-de-Email-em-Python
+Projeto de automação para envio de email diário de produção de lojas de grupo varejista, apresentando os valores de faturamento, quantidade de produtos vendidos e ticket médio agrupados e listados por loja.
+Para o total funcionamento, o aplicativo Outlook deverá estar devidamente instalado no computador e devidamente licenciado.
+O programa filtra dados de um arquivo de excel (que pode ser retirado de um sistema de CRM), conforme as condições colocadas no código e após todo o tratamento de filtragem, cálculo e formatação, envia automaticamente um email com os dados desejados para os e-mails informados.
